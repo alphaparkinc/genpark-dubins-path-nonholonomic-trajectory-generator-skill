@@ -1,0 +1,5 @@
+name: genpark-dubins-path-nonholonomic-trajectory-generator-skill
+description: Nonholonomic Dubins curve trajectory planner for car-like vehicles with minimum turning radius constraints
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
