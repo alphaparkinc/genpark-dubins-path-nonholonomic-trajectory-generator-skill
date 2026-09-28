@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-dubins-path-nonholonomic-trajectory-generator-skill"
+version = "1.0.0"
+description = "Nonholonomic Dubins curve trajectory planner for car-like vehicles with minimum turning radius constraints"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
